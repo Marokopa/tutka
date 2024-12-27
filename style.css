@@ -1,0 +1,40 @@
+body {
+    background-color: #FFDAB9;
+    
+   }
+   ::-webkit-scrollbar {
+  width: 0;
+}
+h1, h3, h2, h4, p {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+hr {
+    margin: 20px 0;
+	padding: 0;
+	height: 2px;
+	border: none;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #000;
+	background: orange;
+   }
+img {
+    width: 50%;
+    height: 50%;
+   }
+    
+
+.footer {
+    background-color: #C71585;
+    padding-bottom: 2%;
+   }
+.pp {
+        font-size:large;
+   }
+#header {
+    background-color: #23696d;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
