@@ -33,6 +33,9 @@ img {
 .pp {
         font-size:large;
    }
+a { 
+    color: blue;
+}
 #header {
     background-color: #23696d;
     padding-bottom: 1%;
