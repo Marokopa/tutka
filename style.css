@@ -1,5 +1,6 @@
 body {
     background-color: #FFDAB9;
+    text-align: center;
     
    }
    ::-webkit-scrollbar {
@@ -41,3 +42,16 @@ a {
     padding-bottom: 1%;
     padding-top: 1%;
 }
+ .book-info {
+            background-color: #0f6128;
+            border-radius: 5px;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            display: inline-block; /* Центрирование контейнера */
+            max-width: 65%;
+        }
+#obl {
+            width: 33%; /* Устанавливаем ширину изображения */
+            height: auto; /* Автоматическая высота для сохранения пропорций */
+            margin-bottom: 10px; 
+        }
